@@ -1,4 +1,4 @@
-import { Calendar, Award, Users, FileText } from 'lucide-react';
+import { Calendar, Award, Users } from "lucide-react";
 
 export function NewsSection() {
   const newsItems = [

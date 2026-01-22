@@ -111,7 +111,7 @@
 // }
 
 import { ImageWithFallback } from './figma/ImageWithFallback';
-import { Mail, Linkedin, GraduationCap } from 'lucide-react';
+import { Mail, GraduationCap } from "lucide-react";
 
 export function MembersSection() {
   const professor = {
